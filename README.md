@@ -4,7 +4,7 @@ A modern, responsive website designed to showcase a public transport management 
 
 ## 🌟 Live Demo
 
-[View Live Website](https://addis-ababa-transport.windsurf.build)
+[View Live Website](https://addis-ababa-transport-system.netlify.app)
 
 ## 🚀 Features
 
@@ -30,7 +30,8 @@ addis_transport_website/
 ├── solution.html
 ├── prototype.html
 ├── reflections.html
-└── future.html
+├── future.html
+└── documentation.html
 ```
 
 ## 🛠️ Technologies Used
@@ -48,6 +49,7 @@ addis_transport_website/
 4. **Prototype** - Showcase of the app prototype
 5. **Reflections** - Lessons learned and insights
 6. **Future Plans** - Roadmap and next steps
+7. **Documentation** - Project management and submission materials
 
 ## 🚀 Deployment
 
